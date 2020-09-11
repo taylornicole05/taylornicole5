@@ -5,13 +5,12 @@ title: about me myself and I
 
 This is my **first post**.
 
-[Here's a website I like](http://seriouseats.com)
 
 ![profile picture](https://taylornicole05.github.io/taylornicole5/images/taylor-chambers-smiling-at-camera.jpg)
 
 <img src="https://taylornicole05.github.io/taylornicole5/images/taylor-chambers-smiling-at-camera.jpg" width="300" height="400" />
 
-Hi everyone! my name is Taylor Chambers and I am a junior at Christopher Newport University, I am 20 years old and my preferred pronouns are she/her. 
+Hi everyone! my name is #Taylor Chambers and I am a junior at _Christopher Newport University,_ I am 20 years old and my preferred pronouns are **she/her.** 
 
 ---
 
@@ -28,5 +27,6 @@ In my free time, which is sparing, I like to volunteer or find ways to educate m
 ---
 
 A little bit about me as a person! I chose the name of this blog to be "blog with grace," because my favorite quote is "smile with grace, even if your heart is aching." I think the phrase 'blog with grace' encourages me to empty out my thoughts here, be transparent, but keep a professional and collected appearance. 
-  I have one dog named Trigger, she is a german shepard mix, and three cows in Upstate New York named Caramel, Velvet, and Dixie. I was born and raised in Georgia, but because my father was military we moved around quite a bit. Currently home is Fairfax, VA - about 20 minutes from Washington D.c. Some fandoms I belong to include One Direction, Criminal Minds - specifically Matthew Grey Gubler - and The Vampire Diaries. My favorite social media platforms are Tik Tok and Twitter, and my favorite netflix shows are Greys Anatomy and Criminal Minds. 
+  I have one dog named Trigger, she is a german shepard mix, and three cows in Upstate New York named _Caramel, Velvet, and Dixie._ I was born and raised in **Georgia,** but because my father was military we moved around quite a bit. **Currently home is Fairfax, VA - about 20 minutes from Washington D.c.** Some fandoms I belong to include One Direction, Criminal Minds - specifically Matthew Grey Gubler - and The Vampire Diaries. My favorite social media platforms are Tik Tok and Twitter, and my favorite netflix shows are Greys Anatomy and Criminal Minds. 
 
+If you are interested in seeing more about my life check out my social medias! here is [My Instagram](https://www.instagram.com/taylornchambers/) [My Health Instagram](https://www.instagram.com/health.w.tay/) and [My Blog Twitter](https://twitter.com/ReviewsTaylor)
