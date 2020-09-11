@@ -1,24 +1,21 @@
 ---
 layout: post
-title: about me myself and I
+title: About Me Myself and I
 ---
 
-This is my **first post**.
-
-
-![profile picture](https://taylornicole05.github.io/taylornicole5/images/taylor-chambers-smiling-at-camera.jpg)
+This is my **first post** and I am **SO EXCITED** to intoduce myself to you!
 
 <img src="https://taylornicole05.github.io/taylornicole5/images/taylor-chambers-smiling-at-camera.jpg" width="300" height="400" />
 
-Hi everyone! my name is #Taylor Chambers and I am a junior at _Christopher Newport University,_ I am 20 years old and my preferred pronouns are **she/her.** 
+Hi everyone! my name is **_Taylor Chambers_** and I am a junior at _Christopher Newport University,_ I am 20 years old and my preferred pronouns are **she/her.** 
 
 ---
 
-After college I want to move to Nashville, Tennessee and become a social media marketing manager for literally any big name company, which is why I took interest in this course. I am majoring in English with a double minor in Communications and Business Administration, so while I am not minoring in Digital Humanities, I believe this class would be beneficial to my understanding of social media and how to work in an online environment. 
+After college I want to move to **Nashville, Tennessee** and become a social media marketing manager for literally any big name company, which is why I took interest in this course. I am majoring in English with a double minor in Communications and Business Administration, so while I am not minoring in Digital Humanities, I believe this class would be beneficial to my understanding of social media and how to work in an online environment. 
 
 ---
 
-Growing up, I wanted to be an author or an editior - I love reading. However I quickly realized that I live a more expensive lifestyle and the salary of an author probably would not suffice. Then, I was introduced to the world of social media and media influencers and I found my passion, and so I am here. Additionally, I have an innate love for writing and feel like taking classes out of my comfort zone, like a class for the Digital Humanities, will help me become the best writer I can become. 
+Growing up, I wanted to be an author or an editior - I love reading. However I quickly realized that I live a more expensive lifestyle and the [salary of an author](https://www.ziprecruiter.com/Salaries/Writer-Author-Salary) probably would not suffice. Then, I was introduced to the world of social media and media influencers and I found my passion, and so I am here. Additionally, I have an innate love for writing and feel like taking classes out of my comfort zone, like a class for the Digital Humanities, will help me become the best writer I can become. 
 
 ---
 
