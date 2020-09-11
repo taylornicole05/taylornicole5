@@ -2,6 +2,9 @@
 Title: About Me Myself and I
 ---
 
+
+![profile picture](https://taylornicole05.github.io/taylornicole5/images/taylor-chambers-smiling-at-camera.jpg)
+
 This is my **first post** and I am **SO EXCITED** to intoduce myself to you!
 
 <img src="https://taylornicole05.github.io/taylornicole5/images/taylor-chambers-smiling-at-camera.jpg" width="300" height="400" />
