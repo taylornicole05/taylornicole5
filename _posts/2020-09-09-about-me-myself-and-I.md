@@ -1,6 +1,5 @@
 ---
-layout: post
-title: About Me Myself and I
+Title: About Me Myself and I
 ---
 
 This is my **first post** and I am **SO EXCITED** to intoduce myself to you!
