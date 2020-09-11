@@ -9,6 +9,8 @@ This is my **first post**.
 
 ![profile picture](https://taylornicole05.github.io/taylornicole5/images/taylor-chambers-smiling-at-camera.jpg)
 
+<img src="https://taylornicole05.github.io/taylornicole5/images/taylor-chambers-smiling-at-camera.jpg" width="200" height="400" />
+
 Hi everyone! my name is Taylor Chambers and I am a junior at Christopher Newport University, I am 20 years old and my preferred pronouns are she/her. 
 
 ---
