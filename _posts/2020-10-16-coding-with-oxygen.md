@@ -1,3 +1,6 @@
+**Title: My Experience with Mark-up and Coding Through Oxygen**
+
+
 **Introduction**
 Digital Humanities is a topic I had little to no experience in prior to taking Dr. Stovers class, and coding was something I could not fathom being a part of my academic experience. However, combining an interesting essay with a subject I was not familiar with, ended up being something I excelled at and allowed me to create a project that I am nothing less than proud of. Additionally, I found it entertaining and important to document the monumental moments of this project through my DH twitter account, which you will see throughout this post. The moments consisted of summaries of the reading, documenting markup, utilizing oxygen, user error, and my overall views of Oxygen. 
 
