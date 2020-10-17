@@ -11,7 +11,7 @@ As a class, we were all assigned different sections of the periodical edition of
 
 We began the project by marking up our individual Google docs with page beginnings, quotes, em dashes, page endings, and more to help us understand where the code needed to be inserted. Some students had trouble with this aspect of the project. However I felt that once I took a step back and viewed markup from a more simplistic perspective, transcription became a much easier and basic process. This aspect can be redundant, having to cross reference the text with the transcription and carefully placing your markup, but once you view the final product in Oxygen the entire process becomes worthwhile. 
 
-<img src="https://taylornicole05.github.io/taylornicole5/images/mark.PNG" width="300" height="400" />
+<img src="https://taylornicole05.github.io/taylornicole5/images/mark.png" width="300" height="400" />
 
 **Oxygen**
 Using Oxygen was a surprising experience. I did not expect to like it - coding had always been something that intimidated me. But, I actually found coding through Oxygen to be therapeutic, relaxing, and validating (thanks little green box in the right corner). I had a user error experience at first, as I spent hours working on my code and neglected to save it. I came back to continue working on it a few days later and my computer crashed while I was trying to save the finished product - bummer. The second time around however, I had a good understanding of what I was doing and was able to get through it fairly quickly in comparison to the first go around. This experience with user error taught me a major lesson in the world of coding regarding saving my work, valuing my time, and introduced me to how cathartic coding can be once you get a handle of it. 
