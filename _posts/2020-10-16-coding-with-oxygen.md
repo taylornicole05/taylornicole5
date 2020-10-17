@@ -9,6 +9,9 @@ _"The Yellow Wallpaper"_, by Charlotte Perkins Stetson, was a very interesting y
 As a class, we were all assigned different sections of the periodical edition of Charlotte Perkins Stetson’s “The Yellow Wall-paper”. Once everyone transcribed and coded their individual sections, it would all be put together as one final product. I was assigned the second column of page 656 of the reading. This is the final section of the reading, and encapsulates the narrator's final demise into insanity. 
 
 
+<img src="https://taylornicole05.github.io/taylornicole5/images/google.png" width="350" height="500" />
+
+
 We began the project by marking up our individual Google docs with page beginnings, quotes, em dashes, page endings, and more to help us understand where the code needed to be inserted. Some students had trouble with this aspect of the project. However I felt that once I took a step back and viewed markup from a more simplistic perspective, transcription became a much easier and basic process. This aspect can be redundant, having to cross reference the text with the transcription and carefully placing your markup, but once you view the final product in Oxygen the entire process becomes worthwhile. 
 
 <img src="https://taylornicole05.github.io/taylornicole5/images/mark.png" width="350" height="500" />
