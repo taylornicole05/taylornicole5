@@ -2,7 +2,7 @@
 Title: The Voice of Hemingway, My Digital Humanities Project and Its Progress.
 ---
 
-<img src="https://taylornicole05.github.io/taylornicole5/images/ernest.jpeg" width="250" height="500" />
+<img src="https://taylornicole05.github.io/taylornicole5/images/ernest.jpeg" width="550" height="250" />
 
 Ernest Hemingway is one of the most renowned writers in literary history, but had also created his reputation as a romantic. Ernest Miller Hemingway was an American journalist, novelist, short-story writer, and sportsman. His economical and understated style—which he termed the iceberg theory—had a strong influence on 20th-century fiction, while his adventurous lifestyle and his public image brought him admiration from later generations.
 
