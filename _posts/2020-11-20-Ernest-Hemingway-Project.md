@@ -43,4 +43,4 @@ As I mentioned before, I have found so many other resources I can utilize for th
 
 Somethings I have had to learn throughout this process though is self awareness and content control. As someone who is also passionate about Hemingway, it is easy for me to go down this rabbit hole of research - or even to create my own while writing my Environmental Scan or my narrative. I have had to learn how to be aware of my research, writing, and topics to ensure that they all can assist in creating a cohesive final product, with little to no stray variables or outliers.
 
-<img src="https://taylornicole05.github.io/taylornicole5/images/hemin.png" width="250" height="500" />
+<img src="https://taylornicole05.github.io/taylornicole5/images/hemin.PNG" width="250" height="500" />
