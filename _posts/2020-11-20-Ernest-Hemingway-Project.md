@@ -2,6 +2,8 @@
 Title: The Voice of Hemingway, My Digital Humanities Project and Its Progress.
 ---
 
+<img src="https://taylornicole05.github.io/taylornicole5/images/ernest.jpeg" width="250" height="500" />
+
 Ernest Hemingway is one of the most renowned writers in literary history, but had also created his reputation as a romantic. Ernest Miller Hemingway was an American journalist, novelist, short-story writer, and sportsman. His economical and understated style—which he termed the iceberg theory—had a strong influence on 20th-century fiction, while his adventurous lifestyle and his public image brought him admiration from later generations.
 
 ---
@@ -16,6 +18,10 @@ I am pleasantly surprised at the amount of content from or about Hemingway I hav
 
 My next phase of research will focus on the audio component of my project. Who has utilized this tool? How did they make it happen? What did the end product sound like? Was it realistic? These are all questions I look forward to answering throughout the rest of my research. From some of the preliminary research I have conducted regarding digital humanities projects featuring audio elements, this will absorb most of the funding from my grant. This is because in order to achieve the most realistic and successful end product, proper allocation of finances is not just necessary, but required. 
 
+<img src="https://taylornicole05.github.io/taylornicole5/images/dh.png" width="250" height="500" />
+
+---
+
 **Comparisons To Other Projects**
 
 Pennsylvania State University has created the Hemingway Letters Project. This project is bringing these letters together, offering an intimate look at Hemingway’s life through a 17-volume collection of his correspondence. This project is an inspiration for the work I am pursuing. While I admire Hemingway's letters in their entirety, adding the audio component not only separates our project, but creates a more intimate relationship between the late Hemingway and his readers. 
@@ -23,6 +29,9 @@ Pennsylvania State University has created the Hemingway Letters Project. This pr
 
 My project differs in the sense that it adds texture to the Hemingway letters. It places its listeners right in Hemingways hands. It brings Hemingway's literature beyond the literary world. What separates this project is that because the letters will be part of a digital audible edition, they are truly open-access, easily downloadable by users of the edition, and appeal to a wider audience, as opposed to a scholarly, creative exercise. 
 
+<img src="https://taylornicole05.github.io/taylornicole5/images/dh.png" width="250" height="500" />
+
+---
 
 **Reflections**
 
@@ -34,3 +43,4 @@ As I mentioned before, I have found so many other resources I can utilize for th
 
 Somethings I have had to learn throughout this process though is self awareness and content control. As someone who is also passionate about Hemingway, it is easy for me to go down this rabbit hole of research - or even to create my own while writing my Environmental Scan or my narrative. I have had to learn how to be aware of my research, writing, and topics to ensure that they all can assist in creating a cohesive final product, with little to no stray variables or outliers.
 
+<img src="https://taylornicole05.github.io/taylornicole5/images/hemin.png" width="250" height="500" />
