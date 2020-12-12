@@ -1,5 +1,5 @@
 ---
-Title: **My Digital Humanities Project, It's Progress, and How I View Grant Writing As A Whole.**
+Title: My Digital Humanities Project, It's Progress, and How I View Grant Writing As A Whole.
 ---
 
 
